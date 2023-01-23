@@ -5,7 +5,7 @@ layout: default
 
 # ASAI Satellite Event 2023
 
-{% include figure.html img="karlspatz_tu_hauptgebaeude.jpeg.jpg" alt="Tu Vienna Main Building" caption="TU Vienna, Main Building Karlsplatz" width="75%" %}
+{% include figure.html img="karlsplatz_tu_hauptgebaeude.jpeg" alt="Tu Vienna Main Building" caption="TU Vienna, Main Building Karlsplatz" width="75%" %}
 
 
 We would like to take the opportunity to bring together AI researchers from Austria. To do this, we will organize an informal satellite event to further connect the Austrian AI community. The idea is to bring together researchers in the broader area of AI under the umbrella of the Austrian Society for Artificial Intelligence, which is organizing this event. 
