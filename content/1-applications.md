@@ -1,9 +1,8 @@
 ---
-title: Applications
-nav: applications
+title: Group Presentation Applications
+nav: Applications
 ---
 
-## Group Presentation Applications
 In your application, please include the following:
 
 - Name and short description of your research group (up to 1 page)

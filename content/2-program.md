@@ -1,9 +1,9 @@
 ---
-title: Program
-nav: program
+title: Workshop Program
+nav: Program
 ---
 
-## Workshop Program
+## 
 
 Location: TC 2.01
 
