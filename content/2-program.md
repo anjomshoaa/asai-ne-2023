@@ -1,52 +1,44 @@
 ---
-title: Get Started
-nav: Start
-topics: Template; Basic Config
+title: Program
+nav: program
 ---
 
-The [workshop-template-b repository](https://github.com/evanwill/workshop-template-b) is a template project --> to get started quickly, make a copy and replace the demo with your own content and customizations.
-This [demo site](https://evanwill.github.io/workshop-template-b/) demonstrates the output on GitHub Pages.
-The content pages serve as documentation and examples to copy from.
+## Workshop Program
 
-{% capture text %}
-1. Click the green "Use this template" button on the [workshop-template-b repository](https://github.com/evanwill/workshop-template-b) to make your own new copy of the code (make sure you are logged into GitHub!).
-2. Work on the GitHub web interface or clone to your local machine to edit files (tip: click `.` on any GitHub repository to [open the web editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)).
-3. Edit the "_config.yml" with your info.
-4. Edit/add the content pages in Markdown (found in the "content" folder).
-5. Add any images to the "images" folder.
-5. Commit on the web interface or push to GitHub.
-6. In your repository's settings, activate GitHub Pages, using main branch.{% endcapture %}
-{% include card.html header="Overview" text=text %}
+Location: TC 2.01
 
-## Basic Configuration
+How to get there: from IJCAI or via the subway.
 
-Edit the "_config.yml" to get your workshop website set up with the basics such as `title` and `author`.
-Check comments (denoted by `#` in YAML) in the file for all the options!
-
-Once you have edited the "_config.yml", you are ready to start editing your content pages.
-All your content is written in Markdown in the "content" folder.
-See [Create Lesson Content]({{ '/content/3-lesson.html' | relative_url }}) for details and options.
-
-## Style customization [optional]
-
-The file "assets/css/styles.scss" exposes variables that can customize the basic style of website:
-
-- `$top-border` adds a tiny splash of color on the header and footer borders. Try tweaking the color using an [HTML # value](https://www.w3schools.com/colors/colors_picker.asp).
-- `$text-color` sets the body text color
-- `$link-color` sets link color
-- `$base-font-size` sets the body text size
-- `$container-max` sets a maximum width for the text body--keeping it narrow can make it easier to read, but gives less screen space!
-
-To use the Bootstrap defaults for *any* of these values, comment out the variable in "styles.scss", using `//` in front of the option's line (e.g. `// $text-color: #111 !default;` ).
-
-To add your own custom CSS, use the file "_sass/_custom.scss".
-Any CSS/SASS you add to this file will override the template and Bootstrap classes.
-
-## Add Optional Analytics [optional]
-
-To use Google Analytics, add your analytics id to "_config.yml" in `google-analytics-id:` (if `google-analytics-id` is blank, the GA code will not added).
-To use an alternative analytics, paste the code snippet provided by the platform into the file "_includes/template/analytics.html".
-
-The analytics code will only be added when using "production" environment. 
-This happens automatically on GitHub Pages. 
-To build manually you need to add "JEKYLL_ENV", like: `JEKYLL_ENV=production jekyll build`.
+15:00-15:10 Opening
+ 
+15:10-16:30 Presentation Session
+- Databases and Artificial Intelligence Group, TU Wien
+- Knowledge-Based Systems Group, TU Wien
+- Institute for Symbolic Artificial Intelligence, JKU Linz
+- Semantic Systems Group, University of Klagenfurt
+- Intelligent Systems and Business Informatics, University of Klagenfurt
+- Intelligent Systems and Business Informatics, University of Klagenfurt
+- Software Engineering and Artificial Intelligence Group, TU Graz
+- Autonomous Intelligent System Group, TU Graz
+- Intelligent and Interactive Systems, University of Innsbruck
+- Continual Learning Intelligent Systems, Human Centered Computing Labs, TU Graz
+- Institute of Theoretical Computer Science, TU Graz
+- Intitute for Machine Learning, JKU Linz
+- Institute for Data, Process and Knowledge Management, WU Wien
+- Austrian Research Institute for Artificial Intelligence
+- Intelligent Systems Group, TU Graz
+- Institute of Artificial Intelligence, Medical University of Vienna
+- Vienna Dermatologic Imaging/Informatics Research, Medical University of Vienna
+- Fraunhofer Austria
+- Machine Learning Group, SCCH
+- Machine Learning Group, Know-Center GmbH
+ 
+16:30-17:45 Networking and Poster Session
+Location: TC 2.13
+Coffee: TC 2.11
+ 
+17:45-18:00 Closing
+ 
+18:00-19:00 IJCAI 2022 Keynote by Gerhard Widmer, JKU Linz: “AI & Music”
+ 
+19:00-23:00 IJCAI 2022 Welcome Reception
