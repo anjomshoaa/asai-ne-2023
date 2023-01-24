@@ -8,11 +8,7 @@ nav: Committee
 * Amin Anjomshoaa (WU Vienna/ CSH Vienna)
 
 ## Program Committee
-- Markus Hofmarcher (JKU Linz)
-- Ceca Kraisnikovic (TU Graz)
-- Milad Moradi, (MedUni Wien)
-- Horst Petschenig (TU Graz)
-- Kajetan Schweighofer (JKU Linz)
+- TBD
 
 ## ASAI Board
 - Georg Dorffner (MedUni Wien)

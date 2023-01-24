@@ -8,7 +8,7 @@ Call for Research Group Presentations
 Within the event, we would like to give AI research groups in Austria the opportunity to present themselves. This should be a five-minute short presentation containing the following:
 present your unit or organization,
 present research questions your group currently works on.
-If you are interested in presenting your research group, please submit your application via EasyChair here: [TODO: create event on easychair] easychair.org/conferences/?conf=asaise2023. Presentations will take place in the form of five-minute lightning talks, as well as a poster session. In order to apply for a presentation slot, please provide the following information in your submission:
+If you are interested in presenting your research group, please submit your application via EasyChair here: [easychair.org/conferences/?conf=asaise2023](https://easychair.org/my/conference?conf=asaise2023). Presentations will take place in the form of five-minute lightning talks, as well as a poster session. In order to apply for a presentation slot, please provide the following information in your submission:
 Submission guideline:
 	Name and a short description of your research group (up to 1 page).
 	List of research topics.
@@ -18,7 +18,7 @@ Networking and Discussions
 The main goal of the event is networking and enabling new collaborations and discussion amongst Austrian AI researchers, in line with the goals of ASAI and Uniko, recently published in a joint position paper [1], to strengthen the community and, apart from research, to also discuss broader topics such as Austria’s AI strategy [2] and the role of the academic Austrian research community within.
 
 
-## Confirmed Groups [TODO: approve confirmed groups]: 
+## Confirmed Groups : 
 Austrian Research Institute for Artificial Intelligence (OFAI)
 Software Competence Center Hagenberg (SCCH)
 Institute for Data, Process and Knowledge Management, WU Wien
@@ -35,10 +35,8 @@ Program Chairs:
 Anna Rapberger (TU Wien)
 Am Anjomshoaa (WU Wien / Complexity Science Hub)
 
-## Program Committee [TODO: update the PC list]: 
-Ceca Kraisnikovic, Horst Petschenig (TU Graz) 
-Milad Moradi (MedUni Wien) 
-Kajetan Schweighofer, Markus Hofmarcher (JKU Linz)
+## Program Committee: 
+- TBD
 
 ## ASAI Board:
 Georg Dorffner (MedUni Wien)
@@ -53,15 +51,15 @@ Axel Polleres (WU Wien)
 Stefan Woltran (TU Wien)
 
 ## Important Dates:
-**- **Express interest for group presentation: May 15, 2023
-- General registration opens: June 5, 2023 (Details on the registration will be published on the event website: [TODO: update URL] semsys.aau.at/events/asai-ijcai-2022/)
+- Express interest for group presentation: May 15, 2023
+- General registration opens: June 5, 2023 (Details on the registration will be published on the event website: [ai.wu.ac.at/asai-se-2023](https://ai.wu.ac.at/asai-se-2023) 
 - Notification of acceptance of group presentation proposals: 1 June 2023
 - Submission of final group presentation (slides & poster PDFs): June 15, 2023
 - Date of workshop: July 5, 2023, 15:00-18:00
 
 
-## References: [TODO: check for updates?]
-Bernhard Moser, Georg Dorffner, Thomas Eiter, Wolfgang Faber, Günter Klambauer, Robert Legenstein, Bernhard Nessler, Axel Polleres, and Stefan Woltran. Österreichische AI Strategie aus Sicht der Wissenschaft: Forderungen der ASAI zu einer konkreten AI Strategie in Österreich. OCG Journal, 01/2020:14--17, 2020. Invited article (in German). https://www.ocg.at/sites/ocg.at/files/medien/pdfs/OCG-Journal20-1-2.pdf#page=14
+## References: 
+- Bernhard Moser, Georg Dorffner, Thomas Eiter, Wolfgang Faber, Günter Klambauer, Robert Legenstein, Bernhard Nessler, Axel Polleres, and Stefan Woltran. Österreichische AI Strategie aus Sicht der Wissenschaft: Forderungen der ASAI zu einer konkreten AI Strategie in Österreich. OCG Journal, 01/2020:14--17, 2020. [Invited article (in German)](https://www.ocg.at/sites/ocg.at/files/medien/pdfs/OCG-Journal20-1-2.pdf#page=14)
 
 
-ASAI Statement on Austria’s AI Strategy 2021 (in German) https://www.asai.ac.at/en/downloads-and-publications?file=files/board/documents/statement-ai-initiative-2021.pdf&cid=752 
+- [ASAI Statement on Austria’s AI Strategy 2021 (in German)](https://www.asai.ac.at/en/downloads-and-publications?file=files/board/documents/statement-ai-initiative-2021.pdf&cid=752)
