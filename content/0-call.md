@@ -5,6 +5,7 @@ nav: Call
 
 
 Call for Research Group Presentations
+
 Within the event, we would like to give AI research groups in Austria the opportunity to present themselves. This should be a five-minute short presentation containing the following:
 present your unit or organization,
 present research questions your group currently works on.
