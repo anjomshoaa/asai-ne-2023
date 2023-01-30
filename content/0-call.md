@@ -7,6 +7,7 @@ nav: Call
 Call for Research Group Presentations
 
 Within the event, we would like to give AI research groups in Austria the opportunity to present themselves. This should be a five-minute short presentation containing the following:
+
 present your unit or organization,
 present research questions your group currently works on.
 If you are interested in presenting your research group, please submit your application via EasyChair here: [easychair.org/conferences/?conf=asaise2023](https://easychair.org/my/conference?conf=asaise2023). Presentations will take place in the form of five-minute lightning talks, as well as a poster session. In order to apply for a presentation slot, please provide the following information in your submission:
