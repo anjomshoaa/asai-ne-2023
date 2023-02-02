@@ -1,32 +1,36 @@
 ---
-title: ASAI Satellite Event 2023
+title: ASAI Networking Event 2023
 layout: default
 ---
 
-# ASAI Satellite Event 2023
+# ASAI Networking Event 2023
+## Monday, July 5, 15:30-18:30
 
 {% include figure.html img="karlsplatz_tu_hauptgebaeude.jpeg" alt="Tu Vienna Main Building" caption="TU Vienna, Main Building Karlsplatz" width="75%" %}
 
 
-The [Austrian Society for Artificial Intelligence (ASAI)](https://www.asai.ac.at/) aims to bring together AI researchers from Austria. To do this, we will organize a networking event to further connect the Austrian AI community. The event is co-located with the [ASAI Summer School 2023](https://caiml.dbai.tuwien.ac.at/news/34/). The idea is to bring together researchers in the broader area of AI for networking and discussions. In the scope of the Summer School, the ASAI event furthermore gives early-stage researchers the opportunity to connect with experienced researchers and research groups all over Austria.
+The [Austrian Society for Artificial Intelligence (ASAI)](https://www.asai.ac.at/) is planning a networking event to bring together experts, researchers and enthusiasts from all over the country. This event aims to provide a platform for attendees to share their knowledge, insights and ideas on the latest developments in AI and to foster new collaborations and partnerships. With a diverse lineup of project presentations and AI community members, the event promises to be an exciting and informative experience for all participants.
+
+ The event is co-located with the [ASAI Summer School 2023](https://caiml.dbai.tuwien.ac.at/news/34/). The idea is to bring together researchers in the broader area of AI for networking and discussions. In the scope of the Summer School, the ASAI event furthermore gives early-stage researchers the opportunity to connect with experienced researchers and research groups all over Austria.
 
 The meeting will be held at TU Vienna on July 5, at [TU Vienna](https://www.tuwien.at/).
 
-Towards the goals of the workshop, we aim to have two main agenda items: short presentations of the research groups, and networking and discussion opportunities.
+Towards the goals of this event, there will be short presentations of the research groups, along with opportunities for networking and productive discussions.
 
 ## Research Group Presentations
 
-Within the event, we would like to give AI research groups in Austria the opportunity to present themselves. This should be a five-minute short presentation where participating groups have the opportunitiy to
+During the event, we aim to provide a platform for AI research groups in Austria to showcase themselves and their projects via five-minute short presentations where participating groups have the opportunitiy to
 
-- present your unit or organization,
-- present research questions your group currently works on.
+- present their unit or organization, 
+- present research questions their group currently works on, 
+- and their state-of-the-art projects and products.
 
 
 ## Important Dates
 - Express interest for group presentation until May 15, 2023
 - Registration opens: June 5, 2023 
 - Submission of final group presentation (slides & poster PDFs): June 15, 2023
-- Date of workshop: July 5, 2023, 15:00-18:00
+- Date of workshop: July 5, 2023, 15:30-18:30
 
 ## Networking and Discussions
 

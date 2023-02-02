@@ -15,7 +15,7 @@ Presentations will take place in the form of
 - five-minute lightning talks, 
 - and a poster session. 
 
-If you are interested in presenting your research group, please submit your application here: [TODO link update] 
+If you are interested in presenting your research group, please submit your application via our [Applicatio Form](https://docs.google.com/forms/d/e/1FAIpQLSfCsK_-hMWoEqARlqDtHZfZbnIXr6vfvUtTup8-eqUT1Xm3Mw/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)
 
 ## Submission Guideline
 In order to apply for a presentation slot, please provide the following information in your submission:

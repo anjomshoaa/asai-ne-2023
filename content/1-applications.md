@@ -3,18 +3,17 @@ title: Group Presentation Applications
 nav: Applications
 ---
 
-TODO UPDATE: Paper submission will be handled electronically by means of the Easychair system. All submissions will be peer-reviewed. The submission page is available here: [easychair.org/conferences/?conf=asaise2023](https://easychair.org/my/conference?conf=asaise2023).
+Presentations and participation submissions will be handled electronically via [Applicatio Form](https://docs.google.com/forms/d/e/1FAIpQLSfCsK_-hMWoEqARlqDtHZfZbnIXr6vfvUtTup8-eqUT1Xm3Mw/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link).
 
 In your application, please include the following:
 
 - Name and short description of your research group (up to 1 page)
-- List of research topics
-- List of up to 5 selected publications
+- Short description of your group including List of research topics, selected publications, and projects
 
 Each research group will get the opportunity to present their work in a
 
-- five-minute lightning talk 
-- and a poster session. 
+- five-minute lightning talk and 
+- a poster session. 
 
 We plan to publish lightning talk slides and posters online on this website.
 
