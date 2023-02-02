@@ -64,7 +64,7 @@ The main goal of the event is networking and enabling new collaborations and dis
 
 ## References 
 
-[1] Bernhard Moser, Georg Dorffner, Thomas Eiter, Wolfgang Faber, Günter Klambauer, Robert Legenstein, Bernhard Nessler, Axel Polleres, and Stefan Woltran. Österreichische AI Strategie aus Sicht der Wissenschaft: Forderungen der ASAI zu einer konkreten AI Strategie in Österreich. OCG Journal, 01/2020:14--17, 2020. Invited article (in German). https://www.ocg.at/sites/ocg.at/files/medien/pdfs/OCG-Journal20-1-2.pdf#page=14
+[1] Bernhard Moser, Georg Dorffner, Thomas Eiter, Wolfgang Faber, Günter Klambauer, Robert Legenstein, Bernhard Nessler, Axel Polleres, and Stefan Woltran. [Österreichische AI Strategie aus Sicht der Wissenschaft: Forderungen der ASAI zu einer konkreten AI Strategie in Österreich](https://www.ocg.at/sites/ocg.at/files/medien/pdfs/OCG-Journal20-1-2.pdf#page=14). OCG Journal, 01/2020:14--17, 2020. Invited article (in German).
 
 
-[2] ASAI Statement on Austria’s AI Strategy 2021 (in German) https://www.asai.ac.at/en/downloads-and-publications?file=files/board/documents/statement-ai-initiative-2021.pdf&cid=752 
+[2] [ASAI Statement on Austria’s AI Strategy 2021](https://www.asai.ac.at/en/downloads-and-publications?file=files/board/documents/statement-ai-initiative-2021.pdf&cid=752) (in german) 
