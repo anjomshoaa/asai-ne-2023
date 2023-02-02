@@ -3,7 +3,7 @@ title: Group Presentation Applications
 nav: Applications
 ---
 
-Presentations and participation submissions will be handled electronically via [Applicatio Form](https://docs.google.com/forms/d/e/1FAIpQLSfCsK_-hMWoEqARlqDtHZfZbnIXr6vfvUtTup8-eqUT1Xm3Mw/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link).
+Presentations and participation submissions will be handled electronically via [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfCsK_-hMWoEqARlqDtHZfZbnIXr6vfvUtTup8-eqUT1Xm3Mw/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link).
 
 In your application, please include the following:
 
