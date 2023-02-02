@@ -4,8 +4,6 @@ nav: Call
 ---
 
 
-## Call for Research Group Presentations
-
 
 Within the event, we would like to give AI research groups in Austria the opportunity to present themselves. This should be a five-minute short presentation containing the following:
 
@@ -34,36 +32,28 @@ The main goal of the event is networking and enabling new collaborations and dis
 
 
 ## Confirmed Groups
-Austrian Research Institute for Artificial Intelligence (OFAI)
-Software Competence Center Hagenberg (SCCH)
-Institute for Data, Process and Knowledge Management, WU Wien
-Database and Artificial Intelligence Group, TU Wien
-Semantic Systems Group, University of Klagenfurt
-Institut für Machine Learning, Johannes Kepler Universität Linz
-Institut für Grundlagen der Informationsverarbeitung, TU Graz
-Vienna Dermatologic Imaging/Informatics Research, MedUni Wien
-Institute of Artificial Intelligence, MedUni Wien
+- Institute for Data, Process and Knowledge Management, WU Wien
+- Database and Artificial Intelligence Group, TU Wien
 
 
-## Committee
-Program Chairs:
-Anna Rapberger (TU Wien)
-Am Anjomshoaa (WU Wien / Complexity Science Hub)
+## Program Chairs
+- Anna Rapberger (TU Wien)
+- Am Anjomshoaa (WU Wien / Complexity Science Hub)
 
 ## Program Committee
 - TBD 
 
 ## ASAI Board
-Georg Dorffner (MedUni Wien)
-Thomas Eiter (TU Wien)
-Wolfgang Faber (University of Klagenfurt)
-Günter Klambauer (JKU Linz)
-Brigitte Krenn (ÖFAI)
-Robert Legenstein (TU Graz) 
-Bernhard Moser (SCCH)
-Bernhard Nessler (JKU Linz, SCCH)
-Axel Polleres (WU Wien) 
-Stefan Woltran (TU Wien)
+- Georg Dorffner (MedUni Wien)
+- Thomas Eiter (TU Wien)
+- Wolfgang Faber (University of Klagenfurt)
+- Günter Klambauer (JKU Linz)
+- Brigitte Krenn (ÖFAI)
+- Robert Legenstein (TU Graz) 
+- Bernhard Moser (SCCH)
+- Bernhard Nessler (JKU Linz, SCCH)
+- Axel Polleres (WU Wien) 
+- Stefan Woltran (TU Wien)
 
 ## Important Dates
 - Express interest for group presentation until May 15, 2023
