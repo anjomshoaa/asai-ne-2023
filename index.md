@@ -4,7 +4,7 @@ layout: default
 ---
 
 # ASAI Networking Event 2023
-## Monday, July 5, 15:30-18:30
+## Monday, July 5, 15:30-19:00
 
 {% include figure.html img="karlsplatz_tu_hauptgebaeude.jpeg" alt="Tu Vienna Main Building" caption="TU Vienna, Main Building Karlsplatz" width="75%" %}
 
@@ -28,7 +28,7 @@ During the event, we aim to provide a platform for AI research groups in Austria
 
 ## Important Dates
 - Express interest for group presentation until May 15, 2023
-- Registration opens: June 5, 2023 
+- Registration opens: May 20, 2023 
 - Submission of final group presentation (slides & poster PDFs): June 15, 2023
 - Date of workshop: July 5, 2023, 15:30-18:30
 
