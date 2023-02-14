@@ -4,7 +4,7 @@ layout: default
 ---
 
 # ASAI Networking Event 2023
-## Monday, July 5, 15:30-19:00
+## Wednesday, July 5, 15:30-19:00
 
 {% include figure.html img="karlsplatz_tu_hauptgebaeude.jpeg" alt="Tu Vienna Main Building" caption="TU Vienna, Main Building Karlsplatz" width="75%" %}
 
