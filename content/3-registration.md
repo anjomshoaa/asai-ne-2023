@@ -3,4 +3,4 @@ title: Workshop Registration
 nav: Registration
 ---
 
-TBD
+Registration will be opening soon.
