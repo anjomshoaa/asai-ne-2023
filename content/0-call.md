@@ -31,17 +31,9 @@ As a presenter you are invited to bring a poster with details about your researc
 The main goal of the event is networking and enabling new collaborations and discussion amongst Austrian AI researchers, in line with the goals of ASAI and Uniko, recently published in a joint position paper [1], to strengthen the community and, apart from research, to also discuss broader topics such as Austria’s AI strategy [2] and the role of the academic Austrian research community within.
 
 
-## Confirmed Groups
-- Institute for Data, Process and Knowledge Management, WU Wien
-- Database and Artificial Intelligence Group, TU Wien
-
-
 ## Program Chairs
 - Anna Rapberger (TU Wien)
 - Am Anjomshoaa (WU Wien / Complexity Science Hub)
-
-## Program Committee
-- TBD 
 
 ## ASAI Board
 - Georg Dorffner (MedUni Wien)
