@@ -15,7 +15,7 @@ Presentations will take place in the form of
 - five-minute lightning talks, 
 - and a poster session. 
 
-If you are interested in presenting your research group, please submit your application via our [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfCsK_-hMWoEqARlqDtHZfZbnIXr6vfvUtTup8-eqUT1Xm3Mw/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)
+If you are interested in presenting your research group, please submit your application via our ~~Application Form~~.
 
 ## Submission Guideline
 In order to apply for a presentation slot, please provide the following information in your submission:
@@ -48,7 +48,7 @@ The main goal of the event is networking and enabling new collaborations and dis
 - Stefan Woltran (TU Wien)
 
 ## Important Dates
-- Express interest for group presentation until May 15, 2023
+- ~~Express interest for group presentation until May 15, 2023~~
 - Registration opens: June 5, 2023 
 - Submission of final group presentation (slides & poster PDFs): June 15, 2023
 - Date of workshop: July 5, 2023, 15:00-18:00
