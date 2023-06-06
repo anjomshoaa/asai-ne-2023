@@ -13,6 +13,8 @@ The [Austrian Society for Artificial Intelligence (ASAI)](https://www.asai.ac.at
 
  The event is co-located with the [ASAI Summer School 2023](https://caiml.dbai.tuwien.ac.at/news/34/). The idea is to bring together researchers in the broader area of AI for networking and discussions. In the scope of the Summer School, the ASAI event furthermore gives early-stage researchers the opportunity to connect with experienced researchers and research groups all over Austria.
 
+During the event, the Austrian Society for Artificial Intelligence awards the best Master Theses / Diploma Thesis Prize in order to promote young researchers who work in the area of Artificial Intelligence.
+
 The meeting will be held on July 5, 2023 at [TU Vienna](https://www.tuwien.at/).
 
 Towards the goals of this event, there will be short presentations of the research groups, along with opportunities for networking and productive discussions.
@@ -28,8 +30,8 @@ During the event, we aim to provide a platform for AI research groups in Austria
 
 ## Important Dates
 - ~~Express interest for group presentation until May 15, 2023~~
-- Registration opens: June 5, 2023 
-- Submission of final group presentation (slides & poster PDFs): June 15, 2023
+- Participant registration opens: June 5, 2023 
+- Submission of final group presentation (slides & poster PDFs): July 1, 2023
 - Date of workshop: July 5, 2023, 15:30-18:30
 
 ## Networking and Discussions

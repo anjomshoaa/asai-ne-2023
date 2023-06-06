@@ -16,7 +16,6 @@ nav: Program
 - Institute of Artificial Intelligence, Medical University of Vienna
 - Intelligent and Interactive Systems group, University of Innsbruck
 - Intelligent Systems and Business Informatics (ISBI) , University of Klagenfurt
-- Intelligent Systems Group, Graz University of Technology
 - Know-Center GmbH
 - Research Group Probabilistic and Interactive Machine Learning, Universität Wien
 - Research Studio Smart Digital Industries & Service, Research Studios Austria FG
