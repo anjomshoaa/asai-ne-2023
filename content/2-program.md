@@ -33,7 +33,7 @@ The event will take place on July 5, 2023.
 - 16:00 - 17:15 - Lightning talks (5 minute presentations)
 - 17:15 - 17:30 - Best Master Thesis / Diploma Thesis prize
 - 17:30 - 18:30 - Coffee & Poster session (location will be annonced by the local organizers)
-- 19:00 - Scial Dinner (location will be annonced by the local organizers)
+- 19:00 - Social Dinner (location will be annonced by the local organizers)
 
 ## Location
 
