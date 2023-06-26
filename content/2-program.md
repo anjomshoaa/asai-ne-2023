@@ -16,7 +16,7 @@ nav: Program
 | Complexity Science Hub Vienna / TU Graz | Olga Saukh | | |
 | Joanneum Research, Institute for Digital Technologies | Georg Thallinger | | |
 | Vienna University of Technology (TU Wien), Database and Artificial Intelligence Group | Lucas Kletzander | | |
-| University of Innsbruck, Intelligent and Interactive Systems group | Antonio Rodriguez|Sanchez | | |
+| University of Innsbruck, Intelligent and Interactive Systems group | Antonio Rodriguez-Sanchez | | |
 | University of Klagenfurt, Intelligent Systems and Business Informatics (ISBI) | Konstantin Schekotihin | | |
 | Research Studios Austria FG, Research Studio Smart Digital Industries & Services | Tristan Miller | | |
 | Austrian Research Institute for Artificial Intelligence (OFAI) | Brigitte	Krenn | | |
@@ -27,7 +27,7 @@ nav: Program
 
 ## Schedule
 
-The event will take place at July 5, 2023.
+The event will take place on July 5, 2023.
 
 - 15:30 pm - Coffee and Registration
 - 16:00 - 17:15 - Lightning talks (5 minute presentations)

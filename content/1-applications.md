@@ -10,10 +10,10 @@ In your application, please include the following:
 - Name and short description of your research group (up to 1 page)
 - Short description of your group including List of research topics, selected publications, and projects
 
-Each research group will get the opportunity to present their work in a
+Each research group will present their work as  
 
-- five-minute lightning talk and 
-- a poster session. 
+- a five-minute lightning talk during the presentation session and 
+- a poster during the poster presenation session. 
 
 We plan to publish lightning talk slides and posters online on this website.
 
@@ -21,4 +21,4 @@ We plan to publish lightning talk slides and posters online on this website.
 - ~~Express interest for group presentation until May 15, 2023~~
 - Participant registration opens: June 5, 2023 
 - Submission of final group presentation (slides & poster PDFs): July 1, 2023
-- Date of workshop: July 5, 2023, 15:00-18:00
+- Date of workshop: July 5, 2023, 15:30-18:30

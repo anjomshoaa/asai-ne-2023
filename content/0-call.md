@@ -33,7 +33,7 @@ The main goal of the event is networking and enabling new collaborations and dis
 
 ## Program Chairs
 - Anna Rapberger (TU Wien)
-- Am Anjomshoaa (WU Wien / Complexity Science Hub)
+- Amin Anjomshoaa (WU Wien / Complexity Science Hub)
 
 ## ASAI Board
 - Georg Dorffner (MedUni Wien)
@@ -51,7 +51,7 @@ The main goal of the event is networking and enabling new collaborations and dis
 - ~~Express interest for group presentation until May 15, 2023~~
 - Registration opens: June 5, 2023 
 - Submission of final group presentation (slides & poster PDFs): June 15, 2023
-- Date of workshop: July 5, 2023, 15:00-18:00
+- Date of workshop: July 5, 2023, 15:30-18:30
 
 
 ## References 
