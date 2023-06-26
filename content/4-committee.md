@@ -7,9 +7,6 @@ nav: Committee
 * Anna Rapberger (TU Vienna)
 * Amin Anjomshoaa (WU Vienna/ CSH Vienna)
 
-## Program Committee
-- TBD
-
 ## ASAI Board
 - Georg Dorffner (MedUni Wien)
 - Thomas Eiter (TU Wien)
