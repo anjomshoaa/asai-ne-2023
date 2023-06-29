@@ -37,6 +37,6 @@ The event will take place on July 5, 2023.
 
 ## Location
 
-The event will take place at TU-Wien, Campus Getreidemarkt (Getreidemarkt 9, 1060 Vienna), GM3 Vortmann Hörsaal, Building BA, 2nd Floor, Room BA 02 A05 (you may find the detailed map [here](https://tuw-maps.tuwien.ac.at/?q=BA02A05)]). 
+The event will take place at TU-Wien, Campus Getreidemarkt (Getreidemarkt 9, 1060 Vienna), GM3 Vortmann Hörsaal, Building BA, 2nd Floor, Room BA 02 A05 (you may find the detailed map [here](https://tuw-maps.tuwien.ac.at/?q=BA02A05)). 
 
 The social dinner will take place at [Stöckl im Park](https://www.stoecklimpark.at/), Prinz-Eugen-Straße 25, 1030 Vienna.
