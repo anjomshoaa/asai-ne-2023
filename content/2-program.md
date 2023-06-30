@@ -13,7 +13,7 @@ nav: Program
 | Medical University of Vienna, Institute of Artificial Intelligence | Stephan Reichl |
 | Vienna University of Economics and Business (WU Wien), Institute for Data, Process and Knowledge Management | Marta Sabou | | |
 | University of Klagenfurt, Semantic Systems Group, Department of AI and Cybersecurity | Wolfgang Faber | | |
-| Complexity Science Hub Vienna / TU Graz | Olga Saukh | | |
+| KI4LIFE, Fraunhofer Austria | | | |
 | Joanneum Research, Institute for Digital Technologies | Georg Thallinger | | |
 | Vienna University of Technology (TU Wien), Database and Artificial Intelligence Group | Lucas Kletzander | | |
 | University of Innsbruck, Intelligent and Interactive Systems group | Antonio Rodriguez-Sanchez | | |
@@ -22,6 +22,7 @@ nav: Program
 | Austrian Research Institute for Artificial Intelligence (OFAI) | Brigitte	Krenn | | |
 | University of Vienna, Research Group Probabilistic and Interactive Machine Learning | Sebastian Tschiatschek | | |
 | Software Competence Center Hagenberg GmbH (SCCH), Integrated Data and AI Modelling group | Lukas Fischer | | |
+| Vienna Deep Learning Meetup | René Donner | | |
 
 
 
@@ -30,8 +31,8 @@ nav: Program
 The event will take place on July 5, 2023.
 
 - 15:30 pm - Coffee and Registration
-- 16:00 - 17:15 - Lightning talks (5 minute presentations)
-- 17:15 - 17:30 - Best Master Thesis / Diploma Thesis prize
+- 16:00 - 17:20 - Lightning talks (5 minute presentations)
+- 17:20 - 17:30 - Best Master Thesis / Diploma Thesis prize
 - 17:30 - 18:30 - Coffee & Poster session (location will be annonced by the local organizers)
 - 19:00 - Social Dinner (location will be annonced by the local organizers)
 
