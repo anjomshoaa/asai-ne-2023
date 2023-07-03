@@ -16,13 +16,13 @@ nav: Program
 | KI4LIFE, Fraunhofer Austria | | | |
 | Joanneum Research, Institute for Digital Technologies | Georg Thallinger | | |
 | Vienna University of Technology (TU Wien), Database and Artificial Intelligence Group | Lucas Kletzander | | |
-| University of Innsbruck, Intelligent and Interactive Systems group | Antonio Rodriguez-Sanchez | | |
 | University of Klagenfurt, Intelligent Systems and Business Informatics (ISBI) | Konstantin Schekotihin | | |
 | Research Studios Austria FG, Research Studio Smart Digital Industries & Services | Tristan Miller | | |
 | Austrian Research Institute for Artificial Intelligence (OFAI) | Brigitte	Krenn | | |
 | University of Vienna, Research Group Probabilistic and Interactive Machine Learning | Sebastian Tschiatschek | | |
 | Software Competence Center Hagenberg GmbH (SCCH), Integrated Data and AI Modelling group | Lukas Fischer | | |
 | Vienna Deep Learning Meetup | René Donner | | |
+| University of Klagenfurt, KI4LIFE| Erich Teppan | | |
 
 
 
