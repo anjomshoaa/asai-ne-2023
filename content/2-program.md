@@ -13,7 +13,7 @@ nav: Program
 | Medical University of Vienna, Institute of Artificial Intelligence | Stephan Reichl |[View](../files/4_StephanReichl_slides.pdf) | |
 | Vienna University of Economics and Business (WU Wien), Institute for Data, Process and Knowledge Management | Axel Polleres |[View](../files/5_AxelPolleres_slides.pdf) |[View](../files/5_AxelPolleres_poster.pdf) |
 | University of Klagenfurt, Semantic Systems Group, Department of AI and Cybersecurity | Wolfgang Faber |[View](../files/6_WolfgangFaber_slides.pdf) | |
-| Joanneum Research, Institute for Digital Technologies | Georg Thallinger | | |
+| University of Klagenfurt, KI4LIFE| Erich Teppan | | |
 | Vienna University of Technology (TU Wien), Database and Artificial Intelligence Group | Lucas Kletzander | | |
 | University of Klagenfurt, Intelligent Systems and Business Informatics (ISBI) | Konstantin Schekotihin | | |
 | Research Studios Austria FG, Research Studio Smart Digital Industries & Services | Tristan Miller | | |
@@ -21,7 +21,7 @@ nav: Program
 | University of Vienna, Research Group Probabilistic and Interactive Machine Learning | Sebastian Tschiatschek |[View](../files/12_SebastianTschiatschek_slides.pdf) |[View](../files/12_SebastianTschiatschek_poster.pdf) |
 | Software Competence Center Hagenberg GmbH (SCCH), Integrated Data and AI Modelling group | Lukas Fischer |[View](../files/13_LukasFischer_Slides.pdf) |[View](../files/13_LukasFischer_poster.pdf) |
 | Vienna Deep Learning Meetup | René Donner |[View](../files/14_ReneDonner_slides.pdf) |[View](../files/14_ReneDonner_poster.pdf) |
-| University of Klagenfurt, KI4LIFE| Erich Teppan | | |
+
 
 
 
