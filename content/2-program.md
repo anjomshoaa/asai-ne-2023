@@ -15,8 +15,8 @@ nav: Program
 | University of Klagenfurt, Semantic Systems Group, Department of AI and Cybersecurity | Wolfgang Faber |[View](../files/6_WolfgangFaber_slides.pdf) | |
 | University of Klagenfurt, KI4LIFE| Erich Teppan | | |
 | Vienna University of Technology (TU Wien), Database and Artificial Intelligence Group | Lucas Kletzander | | |
-| University of Klagenfurt, Intelligent Systems and Business Informatics (ISBI) | Konstantin Schekotihin | | |
-| Research Studios Austria FG, Research Studio Smart Digital Industries & Services | Tristan Miller | | |
+| University of Klagenfurt, Intelligent Systems and Business Informatics (ISBI) | Konstantin Schekotihin |[View](../files/9_KonstantinSchekotihin_slides.pdf) | |
+| Research Studios Austria FG, Research Studio Smart Digital Industries & Services | Tristan Miller |[View](../files/10_TristanMiller_slides.pdf) |[View](../files/10_TristanMiller_poster.pdf) |
 | Austrian Research Institute for Artificial Intelligence (OFAI) | Brigitte	Krenn |[View](../files/11_BrigitteKrenn_slides.pdf) |[View](../files/11_BrigitteKrenn_poster.pdf) |
 | University of Vienna, Research Group Probabilistic and Interactive Machine Learning | Sebastian Tschiatschek |[View](../files/12_SebastianTschiatschek_slides.pdf) |[View](../files/12_SebastianTschiatschek_poster.pdf) |
 | Software Competence Center Hagenberg GmbH (SCCH), Integrated Data and AI Modelling group | Lukas Fischer |[View](../files/13_LukasFischer_Slides.pdf) |[View](../files/13_LukasFischer_poster.pdf) |
