@@ -7,7 +7,7 @@ nav: Program
 
 | Institution | Presenter | Slides | Poster |
 | ----------- | --------- | ----------- | ---------- |
-| Graz University of Technology, Knowledge Representation and Reasoning Group | Johannes P. Wallner | [View](../files/1_JohannesWallner_slides.pdf)| |
+| Graz University of Technology, Knowledge Representation and Reasoning Group | Johannes P. Wallner | N/A| |
 | Know-Center GmbH, Methods & Algorithms for AI group | Bernhard Geiger |[View](../files/2_BernhardGeiger_slides.pdf) |[View](../files/2_BernhardGeiger_poster.pdf) |
 | Austrian Institute of Technology (AIT), Data Science & Artificial Intelligence group | Alexander Schindler |[View](../files/3_AlexanderSchindler_slides.pdf) |[View](../files/3_AlexanderSchindler_poster.pdf) |
 | Medical University of Vienna, Institute of Artificial Intelligence | Stephan Reichl |[View](../files/4_StephanReichl_slides.pdf) | |
