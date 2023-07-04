@@ -30,8 +30,8 @@ nav: Program
 The event will take place on July 5, 2023.
 
 - 15:30 pm - Coffee and Registration
-- 16:00 - Opening Remarks by Axel Polleres (ASAI-Organizing Committee) and Daniela Murhammer-Sas (BMK)
-- 16:00 - 17:20 - Lightning talks (5 minute presentations)
+- 16:00 - 16:10 - Opening Remarks by Axel Polleres (ASAI-Organizing Committee) and Daniela Murhammer-Sas (BMK)
+- 16:10 - 17:20 - Lightning talks (5 minute presentations)
 - 17:20 - 17:30 - ASAI Award Ceremony (Daniela Murhammer-Sas, BMK and Bernhard A. Moser, ASAI President) 
 - 17:30 - 18:30 - Coffee & Poster session (location will be annonced by the local organizers)
 - 19:00 - Social Dinner (location will be annonced by the local organizers)
