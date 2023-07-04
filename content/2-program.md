@@ -12,7 +12,7 @@ nav: Program
 | Austrian Institute of Technology (AIT), Data Science & Artificial Intelligence group | Alexander Schindler |[View](../files/3_AlexanderSchindler_slides.pdf) |[View](../files/3_AlexanderSchindler_poster.pdf) |
 | Medical University of Vienna, Institute of Artificial Intelligence | Stephan Reichl |[View](../files/4_StephanReichl_slides.pdf) | |
 | Vienna University of Economics and Business (WU Wien), Institute for Data, Process and Knowledge Management | Axel Polleres |[View](../files/5_AxelPolleres_slides.pdf) |[View](../files/5_AxelPolleres_poster.pdf) |
-| University of Klagenfurt, Semantic Systems Group, Department of AI and Cybersecurity | Wolfgang Faber |[View](../files/6_WolfgangFaber_slides.pdf) | |
+| University of Klagenfurt, Semantic Systems Group, Department of AI and Cybersecurity | Wolfgang Faber |[View](../files/6_WolfgangFaber_slides.pdf) |[View](../files/6_WolfgangFaber_poster.pdf) |
 | Fraunhofer Austria - KI4LIFE| Erich Teppan | [View](../files/7_ErichTeppan_slides.pdf) | |
 | Vienna University of Technology (TU Wien), Database and Artificial Intelligence Group | Lucas Kletzander | [View](../files/8_LucasKletzander_slides.pdf) | |
 | University of Klagenfurt, Intelligent Systems and Business Informatics (ISBI) | Konstantin Schekotihin |[View](../files/9_KonstantinSchekotihin_slides.pdf) | |
