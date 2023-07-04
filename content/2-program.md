@@ -13,8 +13,8 @@ nav: Program
 | Medical University of Vienna, Institute of Artificial Intelligence | Stephan Reichl |[View](../files/4_StephanReichl_slides.pdf) | |
 | Vienna University of Economics and Business (WU Wien), Institute for Data, Process and Knowledge Management | Axel Polleres |[View](../files/5_AxelPolleres_slides.pdf) |[View](../files/5_AxelPolleres_poster.pdf) |
 | University of Klagenfurt, Semantic Systems Group, Department of AI and Cybersecurity | Wolfgang Faber |[View](../files/6_WolfgangFaber_slides.pdf) | |
-| University of Klagenfurt, KI4LIFE| Erich Teppan | | |
-| Vienna University of Technology (TU Wien), Database and Artificial Intelligence Group | Lucas Kletzander | | |
+| Fraunhofer Austria - KI4LIFE| Erich Teppan | [View](../files/7_ErichTeppan_slides.pdf) | |
+| Vienna University of Technology (TU Wien), Database and Artificial Intelligence Group | Lucas Kletzander | [View](../files/8_LucasKletzander_slides.pdf) | |
 | University of Klagenfurt, Intelligent Systems and Business Informatics (ISBI) | Konstantin Schekotihin |[View](../files/9_KonstantinSchekotihin_slides.pdf) | |
 | Research Studios Austria FG, Research Studio Smart Digital Industries & Services | Tristan Miller |[View](../files/10_TristanMiller_slides.pdf) |[View](../files/10_TristanMiller_poster.pdf) |
 | Austrian Research Institute for Artificial Intelligence (OFAI) | Brigitte	Krenn |[View](../files/11_BrigitteKrenn_slides.pdf) |[View](../files/11_BrigitteKrenn_poster.pdf) |
